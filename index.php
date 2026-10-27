@@ -1,0 +1,1 @@
+<?php include 'includes/header.php'; echo 'Welcome to Makank Full Project'; ?>
