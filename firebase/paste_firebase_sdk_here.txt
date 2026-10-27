@@ -1,0 +1,1 @@
+Firebase SDK already added in header.php
